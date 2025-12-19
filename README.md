@@ -227,7 +227,7 @@ If you have any questions or need help:
 
 ### **Annepu Uday Kumar**
 
-**Full Stack Developer & Software Engineer**
+**Final Year B.Tech in Computer Science and Engineering with Specialization Software Modelling and Devops**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/annepu-uday-kumar-176583270/)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Annepuuday111)
